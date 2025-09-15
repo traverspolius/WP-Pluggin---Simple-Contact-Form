@@ -1,4 +1,5 @@
-# Simple Contact Form Plugin
+# Simple Contact Form Plugin 
+# Author: Travers Polius
 
 A lightweight, beginner-friendly WordPress plugin that adds a simple contact form with **Name, Email, and Message** fields. The form uses WordPress's native `wp_mail()` function to send submissions to the admin email address.
 
